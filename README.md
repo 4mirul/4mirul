@@ -9,4 +9,8 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-test
+[![4mirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=4mirul)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mirul)](https://github.com/anuraghazra/github-readme-stats)
+
+[![4mirul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@4mirul)](https://github.com/anuraghazra/github-readme-stats)
