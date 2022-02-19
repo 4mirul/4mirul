@@ -13,4 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mirul&langs_count=10&layout=compact&title_color=fff&icon_color=bc7af5&text_color=9f9f9f&bg_color=151515&border_color=00000000&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=4mirul&layout=compact&title_color=fff&icon_color=bc7af5&text_color=9f9f9f&bg_color=151515&border_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=4mirul&layout=compact&title_color=fff&icon_color=bc7af5&text_color=9f9f9f&bg_color=151515&border_color=00000000)](https://wakatime.com/@4mirul)
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
