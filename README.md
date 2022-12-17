@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4mirul
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning Traefik, Docker
-- ~~💞️ I’m looking to collaborate on anything interested~~
+- 💞️ I’m looking to collaborate on anything interested
 - 📫 How to reach me - discord[yuu#8256] www.4mirul.com
 
 <!---
