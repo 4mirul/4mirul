@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning -
 - 💞️ I’m looking to collaborate on anything interested
-- 📫 How to reach me - [![discord](https://img.shields.io/badge/-4mirul.bio.link-blue?logo=biolink)](https://bio.link/4mirul) [![4mirul](https://img.shields.io/uptimerobot/status/m793875570-17e82da12b62973668e3f558?label=4mirul.com)](https://www.4mirul.com)
+- 📫 How to reach me - [![bio.link](https://img.shields.io/badge/-4mirul.bio.link-blue?logo=biolink)](https://bio.link/4mirul) [![4mirul](https://img.shields.io/uptimerobot/status/m793875570-17e82da12b62973668e3f558?label=4mirul.com)](https://www.4mirul.com)
   [![discord](https://img.shields.io/discord/236477623239311360?color=7289DA&label=Torqueserver&logo=discord&logoColor=white&flat)](https://discord.gg/YQHBp2Q7XP)
 
 <!-- [![discord-yuu](https://dcbadge.vercel.app/api/shield/139787130212843520?style=flat&theme=discord-inverted)](https://discord.gg/YQHBp2Q7XP) -->
